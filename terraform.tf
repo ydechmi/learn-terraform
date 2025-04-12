@@ -4,7 +4,7 @@
 terraform {
 
   cloud {
-    organization = "organization-name"
+    organization = "DYProject"
 
     workspaces {
       name = "learn-terraform"
