@@ -3,13 +3,13 @@
 
 terraform {
 
-  cloud {
+  /*cloud {
     organization = "DYProject"
 
     workspaces {
       name = "learn-terraform"
     }
-  }
+  }*/
 
   required_providers {
     aws = {
